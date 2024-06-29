@@ -1,4 +1,4 @@
 # New Project 
 
 this project was created from local system.
-created by amit kumar gupta.
+created by Amit kumar gupta.
